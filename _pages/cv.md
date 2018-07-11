@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech. in Electronics and Communication, NIT Calicut, 2011
+* M.Tech. in Communication and Signal Processing, IIT Bombay, 2013
+* Ph.D in IoT Signal Processing, IIT Bombay, (ongoing)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Autumn-Spring 2017-18: Overall Coordinator
+  * EE Students' Reading Group
+  * Duties included: Organizing Talks for graduate students
+  * Faculty Coordinator: Prof Kumar Appaiah
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Autimn-Spring 2017-18: Department Companion, IRSCP
+  * Duties included: Orientation and grooming of freshers
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Python
+  * Matplotlib
+* Latex
+  * Vim Editor
+  * Tikz
+* Web 
 
 Publications
 ======
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Core Team Member, Yogastha
