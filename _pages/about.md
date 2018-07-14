@@ -14,8 +14,8 @@ Earlier, I completed my Masters in [Communication and Signal Processing](https:/
 
 ## Contact
 
-Email : avijay [at] ee [dot] iitb [dot] ac [dot] in
+Email :   avijay [at] ee [dot] iitb [dot] ac [dot] in
 
-Office : Wireless and Networking Lab (WiNet),  
-         First Floor, EE Main Building,  
-         IIT Bombay, Powai - 400076  
+Office :  Wireless and Networking Lab (WiNet),  
+          First Floor, EE Main Building,  
+          IIT Bombay, Powai - 400076  
