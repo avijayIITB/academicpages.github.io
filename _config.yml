@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EE, IIT Bombay"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Vijay Anavangot"
 description              : &description "PhD Research Scholar"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Vijay A"
   avatar           : "VA_profile.png"
-  bio              : "PhD Research Scholar at EE, IIT Bombay"
+  bio              : "PhD Research at EE, IIT Bombay"
   location         : "Mumbai"
   employer         :
   googlescholar    : "https://scholar.google.co.in/citations?user=M8nDm0AAAAAJ&hl=en"
@@ -222,14 +222,14 @@ defaults:
       share: false
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: false
+  #    comment: true
   # _talks
   - scope:
       path: ""
